@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# RSTP Converter backend runtime data (db, secret key)
+backend/data/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+frontend/.env.local
